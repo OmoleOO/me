@@ -96,7 +96,7 @@ a:hover {
 
 .project-description {
     margin: 10px auto 0;
-    border: 1px solid #000;
+    border: 1px dashed #000;
 	width: 90%;
 	padding: 0 10px;
 }
