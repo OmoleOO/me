@@ -1,8 +1,9 @@
-# About
-Udacity FEND project 1: Portfolio site
+## About
+This is a portfolio site showcasing some of my personal projects.
 
 
-Visit [https://omoleoo.github.io/personal/](https://omoleoo.github.io/personal/) to view the project.
+## Demo
+Visit [https://omoleoo.github.io/portfolio/](https://omoleoo.github.io/portfolio/).
 
-
-Cheers!
+## Suggestions
+Kindly send an email to olumideomole@gmail.com
